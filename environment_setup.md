@@ -16,4 +16,8 @@ user=> (load-file "src/fwpd/core.clj")
 user=> (use 'fwpd.core)
 nil
 
-I should probably define some shortcut for this
+Defined "reload" shortcut for this
+
+Added this vim plugin for markdown
+
+https://github.com/plasticboy/vim-markdown
